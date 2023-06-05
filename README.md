@@ -16,6 +16,83 @@
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
   
+  
+  <table border="5">
+    <thead>
+      <tr>
+        <th> S.No. </th>
+        <th> Topics: </th>
+        <th> Problems </th>
+        <th> Code: </th>
+        <th> Solution </th>
+        <th> Video Solution </th>
+        <th> Notes </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th> 1. </th>
+        <th> <code>Array</code> </th>
+        <th align="left"> 
+          <a href="https://takeuforward.org/data-structure/set-matrix-zero"> 
+            Set Matrix Zeroes
+          </a> 
+        </th>
+        <th> ✔️ </th>
+        <th align="center"> 
+          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.cpp">
+            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+          </a> 
+          <br> 
+          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+          </a>
+        </th>
+        <th align="center"> 
+          <a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7">
+            <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+          </a>
+        </th>
+        <th align="left">
+          <details>
+            <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+          </details>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 2. </th>
+        <th> <code>Array</code> </th>
+        <th align="left"> 
+          <a href="https://takeuforward.org/data-structure/program-to-generate-pascals-triangle"> 
+            Pascal’s Triangler
+          </a> 
+        </th>
+        <th> ✔️ </th>
+        <th align="center"> 
+          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.cpp">
+            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+          </a> 
+          <br> 
+          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+          </a>
+        </th>
+        <th align="center"> 
+          <a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7">
+            <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+          </a>
+        </th>
+        <th align="left">
+          <details>
+            <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+          </details>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  
 | S.No. | Topic:  | Problems                                                                                                                     | Solutions | C++                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Video-Solution                                                                                                                                                            |
 |-------|---------|------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | `Array` | [Set Matrix Zeroes](https://takeuforward.org/data-structure/set-matrix-zero)                                                 | ✔️        | <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.cpp"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="25" height="25"></a> <br> <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="25" height="25"></a>                                                                                         | <a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" width="25" height="25"></a>  |
