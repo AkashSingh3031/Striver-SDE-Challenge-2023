@@ -2,7 +2,7 @@
 
 | Start Date  | End Date     |
 |-------------|--------------|
-| 4 June 2022 | 5 June 2022  |
+| 4 June 2023 | 5 June 2023  |
 
 🔴 No Question Solved   🟥 <br>
 🟡 Some Questions Solved🟨 <br>
