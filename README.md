@@ -40,13 +40,95 @@
         </th>
         <th> ✔️ </th>
         <th align="center"> 
+          <table border="2">
+            <thead>
+              <tr>
+                <th> Problem </th>
+                <th colspan="3"> Solution </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th> 
+                  <a href="https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_8230862?challengeSlug=striver-sde-challenge">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <th>
+                  <a href="https://leetcode.com/problems/set-matrix-zeroes">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <th>
+                  <a href="https://practice.geeksforgeeks.org/problems/make-zeroes4042/1">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+          </table>
+<!--           
           <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.cpp">
             <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
           </a> 
           <br> 
           <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
             <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-          </a>
+          </a> 
+-->
         </th>
         <th align="center"> 
           <a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7">
@@ -71,13 +153,86 @@
         </th>
         <th> ✔️ </th>
         <th align="center"> 
-          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.cpp">
-            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-          </a> 
-          <br> 
-          <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
-            <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-          </a>
+          <table border="2">
+            <thead>
+              <tr>
+                <th> Problem </th>
+                <th colspan="3"> Solution </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th> 
+                  <a href="https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_8230805?challengeSlug=striver-sde-challenge">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <th>
+                  <a href="https://leetcode.com/problems/pascals-triangle">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a>
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <th>
+                  <a href="https://practice.geeksforgeeks.org/problems/pascal-triangle0652/1">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                  </a> 
+                </th>
+                <th>
+                  <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                  </a> 
+                </th>
+              </tr>
+            </tbody>
+          </table>
         </th>
         <th align="center"> 
           <a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7">
