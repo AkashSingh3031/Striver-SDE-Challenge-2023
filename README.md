@@ -13,7 +13,7 @@
 
 ## Day-1: (Arrays)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
         <thead>
             <tr>
