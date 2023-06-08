@@ -1,9 +1,28 @@
 # [Striver-SDE-Sheet-Challenge](https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023)
-![Striver-SDE-Sheet-Challenge](https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/assets/60146338/a0aef3b1-5451-47f9-bca6-6f7cd0ad5051)
-
-| Start Date  | End Date     |
-|-------------|--------------|
-| 4 June 2023 | 5 June 2023  |
+<!-- ![Striver-SDE-Sheet-Challenge](https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/assets/60146338/a0aef3b1-5451-47f9-bca6-6f7cd0ad5051) -->
+<table border="5" align="center">
+    <thead>
+        <tr>
+            <th colspan="2"> 
+                <a href="https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge?activeProblems=true">
+                    <img alt="Striver-SDE-Sheet-Challenge" src="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/assets/60146338/a0aef3b1-5451-47f9-bca6-6f7cd0ad5051"> 
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th> Start Date⏳</th>
+            <th> End Date⌛</th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th> 4 June 2023 </th>
+            <th> 5 June 2023 </th>
+        </tr>
+    </tbody>
+</table>
 
 🔴 No Question Solved   🟥 <br>
 🟡 Some Questions Solved🟨 <br>
