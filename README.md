@@ -11,7 +11,7 @@
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
-## Day-1: (Arrays)
+## `Day-1: (Arrays)`
 <details>
     <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=flat&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
@@ -658,7 +658,7 @@
     <br>
 </details>
 
-## Day-2: (Arrays-II)
+## `Day-2: (Arrays-II)`
 <details>
     <summary><img id="array" src="https://img.shields.io/badge/Arrays_ll-6-green?style=flt&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
@@ -1306,7 +1306,7 @@
 </details>
 
 
-## Day-3: (Arrays-II)
+## Day-3: (Arrays-III)
 <details>
     <summary><img id="array" src="https://img.shields.io/badge/Arrays_lll-6-green?style=flat&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
@@ -2602,7 +2602,7 @@
 
 ## Day-5: (Linked List)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Linked_List-6-green?style=flat&logo=github&logoColor=crimson&labelColor=cyan&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -3247,9 +3247,9 @@
     <br>
 </details>
 
-## Day-6: (Linked List)
+## Day-6: (Linked List-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Linked_List_ll-6-green?style=flat&logo=github&logoColor=crimson&labelColor=cyan&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -3897,7 +3897,7 @@
 
 ## Day-7: (Linked List and Arrays)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Linked_List_and_Array-6-green?style=flat&logo=github&logoColor=crimson&labelColor=cyan&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
