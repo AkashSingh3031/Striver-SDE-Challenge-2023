@@ -1345,8 +1345,8 @@
                 <th> 1. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix"> 
+                    Search in a 2 D matrix
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1361,12 +1361,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_8230773?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/1%5D.%20Search%20in%20a%202d%20Matrix.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1385,12 +1385,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/search-a-2d-matrix">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/1%5D.%20Search%20in%20a%202d%20Matrix.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1409,12 +1409,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/GeeksforGeeks/1%5D.%20Search%20in%20a%202d%20Matrix.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1433,7 +1433,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/ZYpYur0znng">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>

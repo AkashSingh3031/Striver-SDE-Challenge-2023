@@ -1,6 +1,5 @@
 #include <bits/stdc++.h> 
-void sort012(int *arr, int n)
-{
+void sort012(int *arr, int n) {
    //   Write your code here
     int low = 0, mid = 0, high = n-1;
     

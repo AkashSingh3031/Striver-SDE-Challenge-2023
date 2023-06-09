@@ -1,13 +1,13 @@
 #include <bits/stdc++.h> 
-void setZeros(vector<vector<int>> &matrix)
-{
+void setZeros(vector<vector<int>> &matrix) {
 	// Write your code here.
     int row = matrix.size(), col = matrix[0].size();
     bool col0 = 1;
     
     for(int i=0; i<row; i++) {
-        if(matrix[i][0] == 0) 
+        if(matrix[i][0] == 0) {
             col0 = 0;
+        }
         for(int j=1; j<col; j++) {
             if(matrix[i][j] == 0) {
                 matrix[i][0] = 0;
