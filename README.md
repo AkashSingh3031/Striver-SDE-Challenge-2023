@@ -1325,7 +1325,7 @@
 </details>
 
 
-## Day-3: (Arrays-III)
+## `Day-3: (Arrays-III)`
 <details>
     <summary><img id="array" src="https://img.shields.io/badge/Arrays_lll-6-green?style=flat&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
@@ -1449,8 +1449,8 @@
                 <th> 2. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n"> 
+                    Pow(x, n)
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1465,12 +1465,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/modular-exponentiation_8230803?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/2%5D.%20Pow(X%2Cn).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1489,12 +1489,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/powx-n">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/2%5D.%20Pow(X%2Cn).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -1513,12 +1513,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/GeeksforGeeks/2%5D.%20Pow(X%2Cn).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1537,7 +1537,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/l0YC3876qxg">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -1553,8 +1553,8 @@
                 <th> 3. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times"> 
+                    Majority Element (>n/2 times)
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1569,12 +1569,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/day-6-majority-element_8230731?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/3%5D.%20Majority%20Element%20(N-2%20times).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1593,12 +1593,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/majority-element">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/3%5D.%20Majority%20Element%20(N-2%20times).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -1617,12 +1617,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/GeeksforGeeks/3%5D.%20Majority%20Element%20(N-2%20times).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1641,7 +1641,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/nP_ns3uSh80">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -1657,8 +1657,8 @@
                 <th> 4. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/"> 
+                    Majority Element (n/3 times)
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1673,12 +1673,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/majority-element-ii_8230738?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/4%5D.%20Majority%20Element%20(N-3%20times).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1697,12 +1697,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/majority-element-ii">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/4%5D.%20Majority%20Element%20(N-3%20times).cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -1720,7 +1720,7 @@
                         </tbody>
                         <tbody>
                             <tr>
-                                <th>
+                                <!-- <th>
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
@@ -1729,7 +1729,7 @@
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
-                                </th>
+                                </th> -->
                                 <!--                 <th>
                                     <a href="#">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
@@ -1745,7 +1745,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/vwZj1K0e9U8">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -1761,8 +1761,8 @@
                 <th> 5. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix"> 
+                    Grid Unique Paths
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1777,12 +1777,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/unique-paths_8230802?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/5%5D.%20Grid%20Unique%20Paths.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1801,12 +1801,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/unique-paths">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/5%5D.%20Grid%20Unique%20Paths.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -1825,12 +1825,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/GeeksforGeeks/5%5D.%20Grid%20Unique%20Paths.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1849,7 +1849,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/t_f0nwwdg5o">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -1865,8 +1865,8 @@
                 <th> 6. </th>
                 <th> <code>Array</code> </th>
                 <th align="left"> 
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/count-reverse-pairs"> 
+                    Reverse Pairs
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -1881,12 +1881,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/reverse-pairs_8230825?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/CodeStudio/6%5D.%20Reverse%20Pairs.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1905,12 +1905,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/reverse-pairs">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/Leetcode/6%5D.%20Reverse%20Pairs.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -1929,12 +1929,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/count-reverse-pairs/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/03%5D.%20Day-3%20(Arrays)/GeeksforGeeks/6%5D.%20Reverse%20Pairs.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -1953,7 +1953,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/0e4bZaP3MDI">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -1972,7 +1972,7 @@
     <br>
 </details>
 
-## Day-4: (Arrays-lV)
+## `Day-4: (Arrays-IV)`
 <details>
     <summary><img id="array" src="https://img.shields.io/badge/Arrays_lV-6-green?style=flat&logo=github&logoColor=darkblue&labelColor=orange&color=green"></summary>
     <table border="5">
@@ -1992,8 +1992,8 @@
                 <th> 1. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array"> 
+                    2Sum Problem
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2008,12 +2008,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/1%5D.%202-Sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2037,7 +2037,7 @@
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/Leetcode/1%5D.%202-Sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2056,12 +2056,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/GeeksforGeeks/1%5D.%202-Sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2080,7 +2080,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/UXDSeD9mN-k">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -2096,8 +2096,8 @@
                 <th> 2. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value"> 
+                    4-Sum Problem
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2112,12 +2112,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_8230785?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/2%5D.%204-sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2136,12 +2136,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/4sum">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/Leetcode/2%5D.%204-sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -2160,12 +2160,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/four-elements2452/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/GeeksforGeeks/2%5D.%204-sum-Problem.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2184,7 +2184,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/eD95WRfh81c">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -2200,8 +2200,8 @@
                 <th> 3. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array"> 
+                    Longest Consecutive Sequence
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2216,12 +2216,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_8230708?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/3%5D.%20Longest%20Consecutive%20Sequence.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2240,12 +2240,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/longest-consecutive-sequence">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/Leetcode/3%5D.%20Longest%20Consecutive%20Sequence.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -2264,12 +2264,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/GeeksforGeeks/3%5D.%20Longest%20Consecutive%20Sequence.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2288,7 +2288,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/oO5uLE7EUlM">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -2304,8 +2304,8 @@
                 <th> 4. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum"> 
+                    Largest Subarray with K sum
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2320,12 +2320,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/longest-subarray-zero-sum_8230747?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/4%5D.%20Largest%20Subarray%20with%200%20sum.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2344,12 +2344,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/subarray-sum-equals-k">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/Leetcode/4%5D.%20Largest%20Subarray%20with%200%20sum.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -2368,12 +2368,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/GeeksforGeeks/4%5D.%20Largest%20Subarray%20with%200%20sum.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2392,7 +2392,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/frf7qxiN2qU">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -2408,8 +2408,8 @@
                 <th> 5. </th>
                 <th> <code>Array</code> </th>
                 <th align="left">  
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k"> 
+                    Count number of subarrays with given xor K
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2424,12 +2424,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_8230830?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/5%5D.%20Count%20number%20of%20subarrays%20with%20given%20Xor%20K.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2447,7 +2447,7 @@
                         </tbody>
                         <tbody>
                             <tr>
-                                <th>
+                                <!-- <th>
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
@@ -2456,7 +2456,7 @@
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
-                                </th>
+                                </th> -->
                                 <!--                 <th>
                                     <a href="#">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
@@ -2471,7 +2471,7 @@
                         </tbody>
                         <tbody>
                             <tr>
-                                <th>
+                                <!-- <th>
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
@@ -2480,7 +2480,7 @@
                                     <a href="#">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
-                                </th>
+                                </th> -->
                                 <!--                 <th>
                                     <a href="#">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
@@ -2496,7 +2496,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/eZr-6p0B7ME">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
@@ -2512,8 +2512,8 @@
                 <th> 6. </th>
                 <th> <code>Array</code> </th>
                 <th align="left"> 
-                    <a href="#"> 
-                    ...
+                    <a href="https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character">
+                    Longest Substring without repeat
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2528,12 +2528,12 @@
                         <tbody>
                             <tr>
                                 <th> 
-                                    <a href="#">
+                                    <a href="https://www.codingninjas.com/codestudio/problems/longest-substring-without-repeating-characters_8230684?challengeSlug=striver-sde-challenge">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/CodeStudio/6%5D.%20Longest%20Substring%20without%20repeat.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2552,12 +2552,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/Leetcode/6%5D.%20Longest%20Substring%20without%20repeat.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a>
                                 </th>
@@ -2576,12 +2576,12 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
                                     </a> 
                                 </th>
                                 <th>
-                                    <a href="#">
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/04%5D.%20Day-4%20(Arrays)/GeeksforGeeks/6%5D.%20Longest%20Substring%20without%20repeat.cpp">
                                     <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
                                     </a> 
                                 </th>
@@ -2600,7 +2600,7 @@
                     </table>
                 </th>
                 <th align="center"> 
-                    <a href="#">
+                    <a href="https://youtu.be/qtVh-XEpsJo">
                     <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
                     </a>
                 </th>
