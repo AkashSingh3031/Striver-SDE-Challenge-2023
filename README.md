@@ -9821,7 +9821,7 @@
 
 ## Day-15: (String)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/String-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/String-6-green?style=flat&logo=github&logoColor=white&labelColor=red&color=lightgreen"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -10468,7 +10468,7 @@
 
 ## Day-16: (String-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/String_ii-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/String_ii-6-green?style=flat&logo=github&logoColor=white&labelColor=red&color=lightgreen"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -11115,7 +11115,7 @@
 
 ## Day-17: (Binary Tree)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Binary_Tree-12-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Tree-12-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -12384,9 +12384,9 @@
     <br>
 </details>
 
-## Day-18: (Binary Tree)
+## Day-18: (Binary Tree-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Tree_ll-8-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -13004,6 +13004,214 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 8. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -13031,9 +13239,9 @@
     <br>
 </details>
 
-## Day-19: (Binary Tree)
+## Day-19: (Binary Tree-III)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Tree_lll-7-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -13651,6 +13859,110 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -13680,7 +13992,7 @@
 
 ## Day-20: (Binary Search Tree)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Search_Tree-7-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -14298,6 +14610,110 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -14325,9 +14741,9 @@
     <br>
 </details>
 
-## Day-21: (Binary Search Tree)
+## Day-21: (Binary Search Tree-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Search_Tree_ll-8-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -14945,6 +15361,214 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 8. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -14974,7 +15598,7 @@
 
 ## Day-22: (Binary Trees [Miscellaneous])
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Binary_Tree_[Miscellaneous]-6-green?style=flat&logo=github&logoColor=darkblue&labelColor=green&color=red"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -15510,6 +16134,630 @@
         <tbody>
             <tr>
                 <th> 6. </th>
+                <th> <code>Array</code> </th>
+                <th align="left"> 
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 8. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 9. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 10. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 11. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 12. </th>
                 <th> <code>Array</code> </th>
                 <th align="left"> 
                     <a href="#"> 
@@ -15621,7 +16869,7 @@
 
 ## Day-23: (Graph)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Graph-12-green?style=flat&logo=github&logoColor=green&labelColor=crimson&color=pink"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -16266,9 +17514,9 @@
     <br>
 </details>
 
-## Day-24: (Graph)
+## Day-24: (Graph-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Graph_ll-6-green?style=flat&logo=github&logoColor=green&labelColor=crimson&color=pink"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -16915,7 +18163,7 @@
 
 ## Day-25: (Dynamic Programming)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Dynamic_Programming-7-green?style=flat&logo=github&logoColor=red&labelColor=black&color=green"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -17533,6 +18781,110 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -17560,9 +18912,9 @@
     <br>
 </details>
 
-## Day-26: (Dynamic Programming)
+## Day-26: (Dynamic Programming-II)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Dynamic_Programming_ll-8-green?style=flat&logo=github&logoColor=red&labelColor=black&color=green"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -18180,6 +19532,214 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 8. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
@@ -18209,7 +19769,7 @@
 
 ## Day-27: (Trie)
 <details>
-    <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Trie-7-green?style=flat&logo=github&logoColor=red&labelColor=white&color=orange"></summary>
     <table border="5">
         <thead>
             <tr>
@@ -18827,6 +20387,110 @@
                                     </th>
                                     <th>
                                     <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Array</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
                                       <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
                                     </a> 
                                     </th> -->
