@@ -24,9 +24,11 @@
     </tbody>
 </table>
 
+<!-- 
 🔴 No Question Solved   🟥 <br>
 🟡 Some Questions Solved🟨 <br>
-🟢 All Questions Solved 🟩 <br>
+🟢 All Questions Solved 🟩 <br> 
+-->
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
@@ -2637,10 +2639,10 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
-                    ...
+                    Reverse a LinkedList
                     </a> 
                 </th>
                 <th> ✔️ </th>
@@ -2741,7 +2743,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -2845,7 +2847,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -2949,7 +2951,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3053,7 +3055,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3157,7 +3159,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -3284,7 +3286,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3388,7 +3390,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3492,7 +3494,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3596,7 +3598,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3700,7 +3702,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -3804,7 +3806,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -3932,7 +3934,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4036,7 +4038,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4140,7 +4142,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4244,7 +4246,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4348,7 +4350,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4452,7 +4454,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Linked List</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -4580,7 +4582,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4684,7 +4686,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4788,7 +4790,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4892,7 +4894,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -4996,7 +4998,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5100,7 +5102,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Greedy Algorithm</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -5227,7 +5229,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5331,7 +5333,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5435,7 +5437,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5539,7 +5541,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5643,7 +5645,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5747,7 +5749,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -5874,7 +5876,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -5978,7 +5980,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6082,7 +6084,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6186,7 +6188,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6290,7 +6292,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6394,7 +6396,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Recursion and Backtracking</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -6521,7 +6523,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6625,7 +6627,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6729,7 +6731,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6833,7 +6835,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -6937,7 +6939,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7041,7 +7043,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -7145,7 +7147,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7249,7 +7251,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -7376,7 +7378,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7480,7 +7482,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7584,7 +7586,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7688,7 +7690,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7792,7 +7794,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -7896,7 +7898,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Heaps</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -8023,7 +8025,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8127,7 +8129,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8231,7 +8233,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8335,7 +8337,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8439,7 +8441,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8543,7 +8545,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -8647,7 +8649,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -8774,7 +8776,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8878,7 +8880,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -8982,7 +8984,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -9086,7 +9088,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -9190,7 +9192,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -9294,7 +9296,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -9398,7 +9400,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -9502,7 +9504,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -9606,7 +9608,7 @@
         <tbody>
             <tr>
                 <th> 9. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -9710,7 +9712,7 @@
         <tbody>
             <tr>
                 <th> 10. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Stack and Queue</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -9837,7 +9839,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -9941,7 +9943,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10045,7 +10047,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10149,7 +10151,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10253,7 +10255,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10357,7 +10359,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -10484,7 +10486,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10588,7 +10590,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10692,7 +10694,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10796,7 +10798,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -10900,7 +10902,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11004,7 +11006,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>String</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -11131,7 +11133,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11235,7 +11237,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11339,7 +11341,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11443,7 +11445,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11547,7 +11549,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11651,7 +11653,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -11755,7 +11757,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11859,7 +11861,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -11963,7 +11965,7 @@
         <tbody>
             <tr>
                 <th> 9. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12067,7 +12069,7 @@
         <tbody>
             <tr>
                 <th> 10. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12171,7 +12173,7 @@
         <tbody>
             <tr>
                 <th> 11. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12275,7 +12277,7 @@
         <tbody>
             <tr>
                 <th> 12. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -12402,7 +12404,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12506,7 +12508,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12610,7 +12612,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12714,7 +12716,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12818,7 +12820,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -12922,7 +12924,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -13026,7 +13028,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13130,7 +13132,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13257,7 +13259,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13361,7 +13363,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13465,7 +13467,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13569,7 +13571,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13673,7 +13675,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -13777,7 +13779,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -13881,7 +13883,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14008,7 +14010,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14112,7 +14114,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14216,7 +14218,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14320,7 +14322,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14424,7 +14426,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14528,7 +14530,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -14632,7 +14634,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14759,7 +14761,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14863,7 +14865,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -14967,7 +14969,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15071,7 +15073,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15175,7 +15177,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15279,7 +15281,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -15383,7 +15385,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15487,7 +15489,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Search Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15614,7 +15616,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15718,7 +15720,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15822,7 +15824,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -15926,7 +15928,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -16030,7 +16032,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -16134,631 +16136,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
-                <th align="left"> 
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a>
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 7. </th>
-                <th> <code>Array</code> </th>
-                <th align="left">  
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 8. </th>
-                <th> <code>Array</code> </th>
-                <th align="left">  
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a>
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 9. </th>
-                <th> <code>Array</code> </th>
-                <th align="left">  
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a>
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 10. </th>
-                <th> <code>Array</code> </th>
-                <th align="left">  
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a>
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 11. </th>
-                <th> <code>Array</code> </th>
-                <th align="left">  
-                    <a href="#"> 
-                    ...
-                    </a> 
-                </th>
-                <th> ✔️ </th>
-                <th align="center">
-                    <table border="2">
-                        <thead>
-                            <tr>
-                                <th> Problem </th>
-                                <th colspan="3"> Solution </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th> 
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a>
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                        <tbody>
-                            <tr>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
-                                    </a> 
-                                </th>
-                                <th>
-                                    <a href="#">
-                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
-                                    </a> 
-                                </th>
-                                <!--                 <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
-                                    </a> 
-                                    </th>
-                                    <th>
-                                    <a href="#">
-                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
-                                    </a> 
-                                    </th> -->
-                            </tr>
-                        </tbody>
-                    </table>
-                </th>
-                <th align="center"> 
-                    <a href="#">
-                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
-                    </a>
-                </th>
-                <th align="left">
-                    <details>
-                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
-                    </details>
-                </th>
-            </tr>
-        </tbody>
-        <tbody>
-            <tr>
-                <th> 12. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Binary Tree</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -16885,7 +16263,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -16989,7 +16367,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17093,7 +16471,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17197,7 +16575,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17301,7 +16679,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17405,7 +16783,631 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
+                <th align="left"> 
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 7. </th>
+                <th> <code>Graph</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.py">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/CodeStudio/1%5D.%20Set%20Matrix%20Zeros.java">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/Leetcode/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="https://github.com/AkashSingh3031/Striver-SDE-Challenge-2023/blob/master/01%5D.%20Day-1%20(Arrays)/GeeksforGeeks/1%5D.%20Set%20Matrix%20Zeros.cpp">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 8. </th>
+                <th> <code>Graph</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 9. </th>
+                <th> <code>Graph</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 10. </th>
+                <th> <code>Graph</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 11. </th>
+                <th> <code>Graph</code> </th>
+                <th align="left">  
+                    <a href="#"> 
+                    ...
+                    </a> 
+                </th>
+                <th> ✔️ </th>
+                <th align="center">
+                    <table border="2">
+                        <thead>
+                            <tr>
+                                <th> Problem </th>
+                                <th colspan="3"> Solution </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th> 
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.jpg" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="35" height="35">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a>
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="35" height="25">
+                                    </a> 
+                                </th>
+                                <th>
+                                    <a href="#">
+                                    <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c++_lang.png" width="45" height="35">
+                                    </a> 
+                                </th>
+                                <!--                 <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python_logo.png" width="35" height="35">
+                                    </a> 
+                                    </th>
+                                    <th>
+                                    <a href="#">
+                                      <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" width="35" height="35">
+                                    </a> 
+                                    </th> -->
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+                <th align="center"> 
+                    <a href="#">
+                    <img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white">
+                    </a>
+                </th>
+                <th align="left">
+                    <details>
+                        <summary><img id="array" src="https://img.shields.io/badge/Notes-crimson?style=plastic"></summary>
+                    </details>
+                </th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th> 12. </th>
+                <th> <code>Graph</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -17532,7 +17534,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17636,7 +17638,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17740,7 +17742,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17844,7 +17846,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -17948,7 +17950,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18052,7 +18054,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Graph</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -18179,7 +18181,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18283,7 +18285,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18387,7 +18389,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18491,7 +18493,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18595,7 +18597,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18699,7 +18701,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -18803,7 +18805,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -18930,7 +18932,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19034,7 +19036,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19138,7 +19140,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19242,7 +19244,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19346,7 +19348,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19450,7 +19452,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -19554,7 +19556,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19658,7 +19660,7 @@
         <tbody>
             <tr>
                 <th> 8. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Dynamic Programming</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19785,7 +19787,7 @@
         <tbody>
             <tr>
                 <th> 1. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19889,7 +19891,7 @@
         <tbody>
             <tr>
                 <th> 2. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -19993,7 +19995,7 @@
         <tbody>
             <tr>
                 <th> 3. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -20097,7 +20099,7 @@
         <tbody>
             <tr>
                 <th> 4. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -20201,7 +20203,7 @@
         <tbody>
             <tr>
                 <th> 5. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
@@ -20305,7 +20307,7 @@
         <tbody>
             <tr>
                 <th> 6. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left"> 
                     <a href="#"> 
                     ...
@@ -20409,7 +20411,7 @@
         <tbody>
             <tr>
                 <th> 7. </th>
-                <th> <code>Array</code> </th>
+                <th> <code>Trie</code> </th>
                 <th align="left">  
                     <a href="#"> 
                     ...
