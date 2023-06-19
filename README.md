@@ -2641,7 +2641,7 @@
                 <th> 1. </th>
                 <th> <code>Linked List</code> </th>
                 <th align="left">  
-                    <a href="#"> 
+                    <a href="https://takeuforward.org/data-structure/reverse-a-linked-list"> 
                     Reverse a LinkedList
                     </a> 
                 </th>
